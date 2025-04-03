@@ -46,3 +46,6 @@
 
 ## 링크  
 - **GitHub:** <https://github.com/Yoonyongbin>
+
+## 추천인
+광운대학교 정보융합학부 박규동 교수
